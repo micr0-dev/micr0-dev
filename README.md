@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 Meet the multifaceted creator who codes, does videos, and makes things happen!
 
-<!--
-**micr0-dev/micr0-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Ventures:
+- **Lua Mods**: Fully custom mods for games like Factorio, Project Zomboid, and Minecraft-ComputerCraft.
+- **C# Unity Game Development**: Three complete Unity games for the GMTK GameJam.
+- **Space Station 14 Contributor**: Improving Space Station 14 with everything from quality-of-life upgrades to new features.
+- **System Tools**: Versatile tools developed in Go, Python, and more, demonstrating a wide range of technical prowess.
+- **Avionics**: Passion for rocketry, custom Rocketry Flight Computers Luften and Falcon, along with the ongoing development of the PocketQube-Sat MEWO-1.
+- **Ray Marching Engines**: Diving into 3D graphics with both Python and Java versions of a Ray Marching Engine.
 
-Here are some ideas to get you started:
+## 🌐 Forks & Collaborations
+An active collaborator, continuously learning and contributing to the open-source community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats & More
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=micr0-dev&show_icons=true&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micr0-dev&layout=compact&hide=vue&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
+
+
+## 🤝 Connect with Me
+Please feel free to contact me for collaborations or just a tech chat. @micr0byte on discord!
+
+---
+⭐️ Crafted with ❤️ by [Micr0byte](https://github.com/micr0-dev)
