@@ -24,5 +24,7 @@ Please feel free to contact me for collaborations or just a tech chat. @micr0byt
 If at any point you used my projects and enjoyed them you can buy me a coffee as a thank you!
 https://ko-fi.com/micr0byte
 
+<a href='https://ko-fi.com/J3J745R96' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ---
 ⭐️ Crafted with ❤️ by [Micr0byte](https://github.com/micr0-dev)
