@@ -20,5 +20,9 @@ An active collaborator, continuously learning and contributing to the open-sourc
 ## 🤝 Connect with Me
 Please feel free to contact me for collaborations or just a tech chat. @micr0byte on discord!
 
+## ☕ Buy me a coffee
+If at any point you used my projects and enjoyed them you can buy me a coffee as a thank you!
+https://ko-fi.com/micr0byte
+
 ---
 ⭐️ Crafted with ❤️ by [Micr0byte](https://github.com/micr0-dev)
