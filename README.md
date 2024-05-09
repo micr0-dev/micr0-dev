@@ -6,13 +6,13 @@ I'm a super passionate dev who absolutely adores all things open source! Here's 
 ### 💻🌟 Tech and Tools:
 
 - **Go** – My favorite language!  
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Go/Golang.png" alt="Golang" width="70%"/>
+  <img src="https://github.com/micr0-dev/micr0-dev/assets/26364458/fb6b8391-6e2d-472e-aa5f-09d7e98616be" alt="Golang" width="70%"/>
 
 - **Arch Linux** – I use and love it!  
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/ArchLinux/ArchLinux.png" alt="ArchLinux" width="70%"/>
+  <img src="https://github.com/micr0-dev/micr0-dev/assets/26364458/5e03f995-09d2-47dc-99d8-bd0fea8f21ac" alt="ArchLinux" width="70%"/>
 
 - **UI/UX Design** – I create lots with Figma!  
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Figma/Figma.png" alt="Figma" width="70%"/>
+  <img src="https://github.com/micr0-dev/micr0-dev/assets/26364458/4331bc39-8150-437d-9779-d158cba2f63d" alt="Figma" width="70%"/>
 
 ### 🌸✨ GitHub Stats:
 
